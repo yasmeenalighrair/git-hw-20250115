@@ -1,1 +1,1 @@
-# git-hw-20250115
+GitHub homework repository.
